@@ -24,7 +24,7 @@ Recipe Web Service is microservice based layered architectured RESTful Web Servi
   - For development and testing purposes, the Embedded H2 Database provided by Spring Boot framework is also utilized 
 
 ### Webservice API Flow
-![Recipe Webservice API Flow](https://github.com/gautammroads/ABN-amro-demo/blob/develop/recipw-web-service-flow.pdf)
+![Recipe Webservice API Flow](https://github.com/gautammroads/ABN-amro-demo/blob/develop/recipes-service-flow.pdf)
 
 ### Supported Features
 Feature | Software Module Used
